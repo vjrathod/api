@@ -23,14 +23,9 @@
   ],
   "home_ads": [
     {
-      "app_title": "Video Editor \u0026 Video Maker For Free - VShot",
+      "app_title": "Video Editor - VShot",
       "app_icon": "https://lh3.googleusercontent.com/V_rwOqRNtWEIt45uuYysCn1f9EM4MCO8MYUPM4wM9lkxCSKhW4IpV2ODY6nKadEn_0c\u003ds200-rw",
       "app_uri": "com.vshot.video.editor"
-    },
-    {
-      "app_title": "Learn Korean, Learn Japanese, Chinese - LingoDeer",
-      "app_icon": "https://lh3.googleusercontent.com/eySkKspHqCJ7tWH9OUq6mRMNeXIiabfDjJmhJGHwV02aa9_I4DtTmVzH7gygS_CVEm8",
-      "app_uri": "http://simpler.link/privacy"
     },
     {
       "app_title": "Mr. Jojo - Jungle Adventure",
@@ -38,9 +33,14 @@
       "app_uri": "com.jojo.jungleadventure"
     },
     {
-      "app_title": "Talking Tom Gold Run",
+      "app_title": "Birthday Video Maker",
       "app_icon": "https://lh3.googleusercontent.com/eySkKspHqCJ7tWH9OUq6mRMNeXIiabfDjJmhJGHwV02aa9_I4DtTmVzH7gygS_CVEm8",
-      "app_uri": "https://sites.google.com/view/splendidappmaker/home"
+      "app_uri": "com.lim.birthdaymoviemaker"
+    },
+    {
+      "app_title": "Video Status Splitter",
+      "app_icon": "https://lh3.googleusercontent.com/eySkKspHqCJ7tWH9OUq6mRMNeXIiabfDjJmhJGHwV02aa9_I4DtTmVzH7gygS_CVEm8",
+      "app_uri": "com.lim.splitstoryvideo"
     },
     {
       "app_title": "My Talking Tom 2",
@@ -48,19 +48,39 @@
       "app_uri": "com.outfit7.mytalkingtom2"
     },
     {
-      "app_title": "One More Bounce",
+      "app_title": "Color Pass",
       "app_icon": "https://lh3.googleusercontent.com/eySkKspHqCJ7tWH9OUq6mRMNeXIiabfDjJmhJGHwV02aa9_I4DtTmVzH7gygS_CVEm8",
-      "app_uri": "com.smgstudio.onemorebounce"
+      "app_uri": "com.lim.colorpass"
     },
     {
-      "app_title": "Snake Towers",
+      "app_title": "Stacky",
       "app_icon": "https://lh3.googleusercontent.com/eySkKspHqCJ7tWH9OUq6mRMNeXIiabfDjJmhJGHwV02aa9_I4DtTmVzH7gygS_CVEm8",
-      "app_uri": "com.setsnail.orm"
+      "app_uri": "com.lim.stacky"
     },
     {
-      "app_title": "Lines - Physics Drawing",
+      "app_title": "Magnets - Brain Teaser Puzzle",
       "app_icon": "https://lh3.googleusercontent.com/eySkKspHqCJ7tWH9OUq6mRMNeXIiabfDjJmhJGHwV02aa9_I4DtTmVzH7gygS_CVEm8",
-      "app_uri": "com.leodesol.games.linesthegame"
+      "app_uri": "com.lim.sevaosa.magnets"
+    },
+    {
+      "app_title": "Midon - Crazy Jumper",
+      "app_icon": "https://lh3.googleusercontent.com/eySkKspHqCJ7tWH9OUq6mRMNeXIiabfDjJmhJGHwV02aa9_I4DtTmVzH7gygS_CVEm8",
+      "app_uri": "com.lim.crazyjumper"
+    },
+    {
+      "app_title": "Loopy : One-Track Mind",
+      "app_icon": "https://lh3.googleusercontent.com/eySkKspHqCJ7tWH9OUq6mRMNeXIiabfDjJmhJGHwV02aa9_I4DtTmVzH7gygS_CVEm8",
+      "app_uri": "com.lim.sevaosa.loopy"
+    },
+    {
+      "app_title": "Loopy : One-Track Mind",
+      "app_icon": "https://lh3.googleusercontent.com/eySkKspHqCJ7tWH9OUq6mRMNeXIiabfDjJmhJGHwV02aa9_I4DtTmVzH7gygS_CVEm8",
+      "app_uri": "com.lim.sevaosa.loopy"
+    },
+    {
+      "app_title": "Tracks - Puzzle Game",
+      "app_icon": "https://lh3.googleusercontent.com/eySkKspHqCJ7tWH9OUq6mRMNeXIiabfDjJmhJGHwV02aa9_I4DtTmVzH7gygS_CVEm8",
+      "app_uri": "com.lim.sevaosa.tracks"
     }
   ]
 }
