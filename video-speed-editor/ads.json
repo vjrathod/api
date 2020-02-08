@@ -28,9 +28,39 @@
       "app_uri": "com.vshot.video.editor"
     },
     {
-      "app_title": "TexWalls!",
+      "app_title": "Color Pass",
       "app_icon": "https://lh3.googleusercontent.com/eySkKspHqCJ7tWH9OUq6mRMNeXIiabfDjJmhJGHwV02aa9_I4DtTmVzH7gygS_CVEm8",
-      "app_uri": "com.lazygeniouz.tex"
+      "app_uri": "com.lim.colorpass"
+    },
+    {
+      "app_title": "Mr. Jojo - Jungle Adventure",
+      "app_icon": "https://lh3.googleusercontent.com/eySkKspHqCJ7tWH9OUq6mRMNeXIiabfDjJmhJGHwV02aa9_I4DtTmVzH7gygS_CVEm8",
+      "app_uri": "com.jojo.jungleadventure"
+    },
+    {
+      "app_title": "Birthday Video Maker",
+      "app_icon": "https://lh3.googleusercontent.com/eySkKspHqCJ7tWH9OUq6mRMNeXIiabfDjJmhJGHwV02aa9_I4DtTmVzH7gygS_CVEm8",
+      "app_uri": "com.lim.birthdaymoviemaker"
+    },
+    {
+      "app_title": "Stacky",
+      "app_icon": "https://lh3.googleusercontent.com/eySkKspHqCJ7tWH9OUq6mRMNeXIiabfDjJmhJGHwV02aa9_I4DtTmVzH7gygS_CVEm8",
+      "app_uri": "com.lim.stacky"
+    },
+    {
+      "app_title": "One More Bounce",
+      "app_icon": "https://lh3.googleusercontent.com/eySkKspHqCJ7tWH9OUq6mRMNeXIiabfDjJmhJGHwV02aa9_I4DtTmVzH7gygS_CVEm8",
+      "app_uri": "com.smgstudio.onemorebounce"
+    },
+    {
+      "app_title": "Snake Towers",
+      "app_icon": "https://lh3.googleusercontent.com/eySkKspHqCJ7tWH9OUq6mRMNeXIiabfDjJmhJGHwV02aa9_I4DtTmVzH7gygS_CVEm8",
+      "app_uri": "com.setsnail.orm"
+    },
+    {
+      "app_title": "Lines - Physics Drawing",
+      "app_icon": "https://lh3.googleusercontent.com/eySkKspHqCJ7tWH9OUq6mRMNeXIiabfDjJmhJGHwV02aa9_I4DtTmVzH7gygS_CVEm8",
+      "app_uri": "com.leodesol.games.linesthegame"
     }
   ]
 }
