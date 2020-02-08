@@ -1,9 +1,9 @@
 {
   "apps": [
     {
-      "app_title": "Video Editor & Video Maker For Free - VShot",
-      "app_desc": "Video Editor & Video Maker For Free - VShot is a completely free application. There's no watermark on any output video or any time limit, you can export your edited video into HD quality without any watermark. ",
-      "app_icon": "https://lh3.googleusercontent.com/V_rwOqRNtWEIt45uuYysCn1f9EM4MCO8MYUPM4wM9lkxCSKhW4IpV2ODY6nKadEn_0c=s200-rw",
+      "app_title": "Video Editor \u0026 Video Maker For Free - VShot",
+      "app_desc": "Video Editor \u0026 Video Maker For Free - VShot is a completely free application. There\u0027s no watermark on any output video or any time limit, you can export your edited video into HD quality without any watermark. ",
+      "app_icon": "https://lh3.googleusercontent.com/V_rwOqRNtWEIt45uuYysCn1f9EM4MCO8MYUPM4wM9lkxCSKhW4IpV2ODY6nKadEn_0c\u003ds200-rw",
       "app_uri": "com.vshot.video.editor",
       "app_rating": "4.7",
       "app_cta_text": "Install",
@@ -19,6 +19,18 @@
       "app_cta_text": "Install",
       "app_price": "Free",
       "app_adType": "dialog"
+    }
+  ],
+  "home_ads": [
+    {
+      "app_title": "Video Editor \u0026 Video Maker For Free - VShot",
+      "app_icon": "https://lh3.googleusercontent.com/V_rwOqRNtWEIt45uuYysCn1f9EM4MCO8MYUPM4wM9lkxCSKhW4IpV2ODY6nKadEn_0c\u003ds200-rw",
+      "app_uri": "com.vshot.video.editor"
+    },
+    {
+      "app_title": "TexWalls!",
+      "app_icon": "https://lh3.googleusercontent.com/eySkKspHqCJ7tWH9OUq6mRMNeXIiabfDjJmhJGHwV02aa9_I4DtTmVzH7gygS_CVEm8",
+      "app_uri": "com.lazygeniouz.tex"
     }
   ]
 }
