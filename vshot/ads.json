@@ -3,7 +3,7 @@
     {
       "app_title": "Color Pass",
       "app_desc": "Pass the ball through same colored side of different patterns/shapes. Your ball will switch color with some power ups. You must follow the color pattern on each obstacle to cross it.",
-      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/vshot_icon.png",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/color_pass_icon.png",
       "app_uri": "com.lim.colorpass",
       "app_rating": "4.9",
       "app_cta_text": "Install",
@@ -24,7 +24,7 @@
   "home_ads": [
     {
       "app_title": "Color Pass",
-      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/vshot_icon.png",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/color_pass_icon.png",
       "app_uri": "com.lim.colorpass"
     },
     {
@@ -41,11 +41,6 @@
       "app_title": "Video Status Splitter",
       "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/status_splitter_icon.png",
       "app_uri": "com.lim.splitstoryvideo"
-    },
-    {
-      "app_title": "Color Pass",
-      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/color_pass_icon.png",
-      "app_uri": "com.lim.colorpass"
     },
     {
       "app_title": "Stacky",
