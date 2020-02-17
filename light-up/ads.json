@@ -66,6 +66,11 @@
       "app_title": "Bridges - Puzzle Game",
       "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/bridge_icon.png",
       "app_uri": "com.lim.sevaosa.bridges"
+    },
+    {
+      "app_title": "Blackbox",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/blackbox_icon.png",
+      "app_uri": "com.lim.sevaosa.blackbox"
     }
   ]
 }
