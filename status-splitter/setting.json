@@ -1,5 +1,5 @@
 { 
-   "show_ads":false,
+   "show_ads":true,
    "current_version":4.0,
    "force_update":true,
    "show_dialog_ad_app_open_count":0
