@@ -72,62 +72,73 @@
       "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/blackbox_icon.png",
       "app_uri": "com.lim.sevaosa.blackbox"
     },
-    {
+	{
       "app_title": "Cube Rolling",
       "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/cube_rolling_icon.png",
       "app_uri": "com.lim.sevaosa.cube"
-    },
-    {
+    }
+	,
+	{
       "app_title": "Dominosa",
       "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/dominosa_icon.png",
       "app_uri": "com.lim.sevaosa.dominosa"
-    },
-    {
+    }
+	,
+	{
       "app_title": "Filling - Puzzle Game",
-      "app_icon": "ttps://d37xln8k1rp6cw.cloudfront.net/filling_icon.png",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/filling_icon.png",
       "app_uri": "com.lim.sevaosa.filling"
-    },
-    {
+    }
+	,
+	{
       "app_title": "Flip - Puzzle Game",
       "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/flip_icon.png",
       "app_uri": "com.vshot.video.editor"
-    },
-    {
+    }
+	,
+	{
       "app_title": "Galaxies",
       "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/galaxy_icon.png",
       "app_uri": "com.lim.sevaosa.galaxies"
-    },
-    {
+    }
+	,
+	{
       "app_title": "Inertia",
       "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/inertia_icon.png",
       "app_uri": "com.lim.sevaosa.inertia"
-    },
-    {
+    }
+	,
+	{
       "app_title": "Math Puzzle",
       "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/mathpuzzle_icon.png",
       "app_uri": "com.lim.sevaosa.keen"
-    },
-    {
+    }
+	,
+	{
       "app_title": "NetWalk",
       "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/netwalk_icon.png",
       "app_uri": "com.lim.sevaosa.net"
-    },
-    {
+    }
+	,
+	{
       "app_title": "Pearl - Puzzle Game",
       "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/pearl_icon.png",
       "app_uri": "com.lim.sevaosa.pearl"
-    },
-    {
+    }
+	,
+	{
       "app_title": "Rectangles",
       "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/rectangle_icon.png",
       "app_uri": "com.lim.sevaosa.rectangles"
-    },
-    {
+    }
+	,
+	{
       "app_title": "Towers",
       "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/tower_icon.png",
       "app_uri": "com.lim.sevaosa.towers"
-    },
-    {
+    }
+	,
+	{
       "app_title": "Twiddle",
       "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/twiddle_icon.png",
       "app_uri": "com.lim.sevaosa.twiddle"
