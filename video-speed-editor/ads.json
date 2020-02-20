@@ -11,6 +11,16 @@
       "app_adType": "dialog"
     },
     {
+      "app_title": "Color Pass",
+      "app_desc": "Pass the ball through same colored side of different patterns/shapes. Your ball will switch color with some power ups. You must follow the color pattern on each obstacle to cross it.",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/color_pass_icon.png",
+      "app_uri": "com.lim.colorpass",
+      "app_rating": "4.9",
+      "app_cta_text": "Install",
+      "app_price": "Free",
+      "app_adType": "dialog"
+    },
+    {
       "app_title": "Mr. Jojo - Jungle Adventure",
       "app_desc": "Mr. jojo is 2D Platform old school adventure game. This game bring back memories of old school arcade games with numerous adventure. World of this game contains well designed levels, various enemies, bosses, simple game play, nice graphics and soothing music and sounds.",
       "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/mrjojo_icon.png",
