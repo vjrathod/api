@@ -20,6 +20,17 @@
       "app_price": "Free",
       "app_adType": "dialog"
     }
+    ,
+    {
+      "app_title": "Light Up - Puzzle",
+      "app_desc": "Puzzles are best to improve your problem solving skill and increase your IQ. Light Up is easy to learn and hard to master, but always fun to play it. It has unlimited puzzles, different levels and unlimited difficulties.",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/light_up_icon.png",
+      "app_uri": "com.lim.sevaosa.lightup",
+      "app_rating": "0",
+      "app_cta_text": "Install",
+      "app_price": "Free",
+      "app_adType": "dialog"
+    }
   ],
   "home_ads": [
     {
@@ -41,6 +52,11 @@
       "app_title": "Video Status Splitter",
       "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/status_splitter_icon.png",
       "app_uri": "com.lim.splitstoryvideo"
+    },
+     {
+      "app_title": "Light Up - Puzzle",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/light_up_icon.png",
+      "app_uri": "com.lim.sevaosa.lightup"
     },
     {
       "app_title": "Stacky",
