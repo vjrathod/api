@@ -30,11 +30,15 @@
 			"app_adType": "dialog"
 		}
 	],
-
 	"home_ads": [{
 			"app_title": "Color Pass",
 			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/color_pass_icon.png",
 			"app_uri": "com.lim.colorpass"
+		},
+		{
+			"app_title": "Video Editor - VShot",
+			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/vshot_icon.png",
+			"app_uri": "com.vshot.video.editor"
 		},
 		{
 			"app_title": "Mr. Jojo - Jungle Adventure",
@@ -104,7 +108,7 @@
 		{
 			"app_title": "Flip - Puzzle Game",
 			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/flip_icon.png",
-			"app_uri": "com.vshot.video.editor"
+			"app_uri": "com.lim.sevaosa.flip"
 		},
 		{
 			"app_title": "Galaxies",
