@@ -1,154 +1,150 @@
 {
-	"apps": [{
-			"app_title": "Color Pass",
-			"app_desc": "Pass the ball through same colored side of different patterns/shapes. Your ball will switch color with some power ups. You must follow the color pattern on each obstacle to cross it.",
-			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/color_pass_icon.png",
-			"app_uri": "com.lim.colorpass",
-			"app_rating": "4.9",
-			"app_cta_text": "Install",
-			"app_price": "Free",
-			"app_adType": "dialog"
-		},
-		{
-			"app_title": "Mr. Jojo - Jungle Adventure",
-			"app_desc": "Mr. jojo is 2D Platform old school adventure game. This game bring back memories of old school arcade games with numerous adventure. World of this game contains well designed levels, various enemies, bosses, simple game play, nice graphics and soothing music and sounds.",
-			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/mrjojo_icon.png",
-			"app_uri": "com.jojo.jungleadventure",
-			"app_rating": "4.8",
-			"app_cta_text": "Install",
-			"app_price": "Free",
-			"app_adType": "dialog"
-		},
-		{
-			"app_title": "Video Editor - VShot",
-			"app_desc": "VShot - Video Editor is a completely free application. There's no watermark on any output video or any time limit, you can export your edited video into HD quality without any watermark.",
-			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/vshot_icon.png",
-			"app_uri": "com.vshot.video.editor",
-			"app_rating": "4.9",
-			"app_cta_text": "Install",
-			"app_price": "Free",
-			"app_adType": "dialog"
-		}
-	],
-	"home_ads": [{
-			"app_title": "Color Pass",
-			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/color_pass_icon.png",
-			"app_uri": "com.lim.colorpass"
-		},
-		{
-			"app_title": "Video Editor - VShot",
-			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/vshot_icon.png",
-			"app_uri": "com.vshot.video.editor"
-		},
-		{
-			"app_title": "Mr. Jojo - Jungle Adventure",
-			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/mrjojo_icon.png",
-			"app_uri": "com.jojo.jungleadventure"
-		},
-		{
-			"app_title": "Birthday Video Maker",
-			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/bmm_icon.png",
-			"app_uri": "com.lim.birthdaymoviemaker"
-		},
-		{
-			"app_title": "Video Status Splitter",
-			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/status_splitter_icon.png",
-			"app_uri": "com.lim.splitstoryvideo"
-		},
-		{
-			"app_title": "Stacky",
-			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/stacky_icon.png",
-			"app_uri": "com.lim.stacky"
-		},
-		{
-			"app_title": "Magnets - Brain Teaser Puzzle",
-			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/magnet_icon.png",
-			"app_uri": "com.lim.sevaosa.magnets"
-		},
-		{
-			"app_title": "Midon - Crazy Jumper",
-			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/midon_icon.png",
-			"app_uri": "com.lim.crazyjumper"
-		},
-		{
-			"app_title": "Undead",
-			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/undead_icon.png",
-			"app_uri": "com.lim.sevaosa.undead"
-		},
-		{
-			"app_title": "Loopy : One-Track Mind",
-			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/loopy_icon.png",
-			"app_uri": "com.lim.sevaosa.loopy"
-		},
-		{
-			"app_title": "Light Up - Puzzle",
-			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/light_up_icon.png",
-			"app_uri": "com.lim.sevaosa.lightup"
-		},
-		{
-			"app_title": "Blackbox",
-			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/blackbox_icon.png",
-			"app_uri": "com.lim.sevaosa.blackbox"
-		},
-		{
-			"app_title": "Cube Rolling",
-			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/cube_rolling_icon.png",
-			"app_uri": "com.lim.sevaosa.cube"
-		},
-		{
-			"app_title": "Dominosa",
-			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/dominosa_icon.png",
-			"app_uri": "com.lim.sevaosa.dominosa"
-		},
-		{
-			"app_title": "Filling - Puzzle Game",
-			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/filling_icon.png",
-			"app_uri": "com.lim.sevaosa.filling"
-		},
-		{
-			"app_title": "Flip - Puzzle Game",
-			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/flip_icon.png",
-			"app_uri": "com.lim.sevaosa.flip"
-		},
-		{
-			"app_title": "Galaxies",
-			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/galaxy_icon.png",
-			"app_uri": "com.lim.sevaosa.galaxies"
-		},
-		{
-			"app_title": "Inertia",
-			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/inertia_icon.png",
-			"app_uri": "com.lim.sevaosa.inertia"
-		},
-		{
-			"app_title": "Math Puzzle",
-			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/mathpuzzle_icon.png",
-			"app_uri": "com.lim.sevaosa.keen"
-		},
-		{
-			"app_title": "Bridges - Puzzle Game",
-			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/bridge_icon.png",
-			"app_uri": "com.lim.sevaosa.bridges"
-		},
-		{
-			"app_title": "Pearl - Puzzle Game",
-			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/pearl_icon.png",
-			"app_uri": "com.lim.sevaosa.pearl"
-		},
-		{
-			"app_title": "Rectangles",
-			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/rectangle_icon.png",
-			"app_uri": "com.lim.sevaosa.rectangles"
-		},
-		{
-			"app_title": "Towers",
-			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/tower_icon.png",
-			"app_uri": "com.lim.sevaosa.towers"
-		},
-		{
-			"app_title": "Twiddle",
-			"app_icon": "https://d37xln8k1rp6cw.cloudfront.net/twiddle_icon.png",
-			"app_uri": "com.lim.sevaosa.twiddle"
-		}
-	]
+  "apps": [
+    {
+      "app_title": "Video Editor - VShot",
+      "app_desc": "VShot - Video Editor is a completely free application. There's no watermark on any output video or any time limit, you can export your edited video into HD quality without any watermark.",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/vshot_icon.png",
+      "app_uri": "com.vshot.video.editor",
+      "app_price": "Free",
+      "app_adType": "dialog"
+    },
+    {
+      "app_title": "Video Editor - VShot",
+      "app_desc": "VShot - Video Editor is a completely free application. There's no watermark on any output video or any time limit, you can export your edited video into HD quality without any watermark.",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/vshot_icon.png",
+      "app_uri": "com.vshot.video.editor",
+      "app_price": "Free",
+      "app_adType": "dialog"
+    },
+    {
+      "app_title": "Video Editor - VShot",
+      "app_desc": "VShot - Video Editor is a completely free application. There's no watermark on any output video or any time limit, you can export your edited video into HD quality without any watermark.",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/vshot_icon.png",
+      "app_uri": "com.vshot.video.editor",
+      "app_price": "Free",
+      "app_adType": "dialog"
+    }
+  ],
+  "home_ads": [
+    {
+      "app_title": "Color Pass",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/color_pass_icon.png",
+      "app_uri": "com.lim.colorpass"
+    },
+    {
+      "app_title": "Video Editor - VShot",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/vshot_icon.png",
+      "app_uri": "com.vshot.video.editor"
+    },
+    {
+      "app_title": "Mr. Jojo - Jungle Adventure",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/mrjojo_icon.png",
+      "app_uri": "com.jojo.jungleadventure"
+    },
+    {
+      "app_title": "Birthday Video Maker",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/bmm_icon.png",
+      "app_uri": "com.lim.birthdaymoviemaker"
+    },
+    {
+      "app_title": "Video Status Splitter",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/status_splitter_icon.png",
+      "app_uri": "com.lim.splitstoryvideo"
+    },
+    {
+      "app_title": "Stacky",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/stacky_icon.png",
+      "app_uri": "com.lim.stacky"
+    },
+    {
+      "app_title": "Magnets - Brain Teaser Puzzle",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/magnet_icon.png",
+      "app_uri": "com.lim.sevaosa.magnets"
+    },
+    {
+      "app_title": "Midon - Crazy Jumper",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/midon_icon.png",
+      "app_uri": "com.lim.crazyjumper"
+    },
+    {
+      "app_title": "Undead",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/undead_icon.png",
+      "app_uri": "com.lim.sevaosa.undead"
+    },
+    {
+      "app_title": "Loopy : One-Track Mind",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/loopy_icon.png",
+      "app_uri": "com.lim.sevaosa.loopy"
+    },
+    {
+      "app_title": "Light Up - Puzzle",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/light_up_icon.png",
+      "app_uri": "com.lim.sevaosa.lightup"
+    },
+    {
+      "app_title": "Blackbox",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/blackbox_icon.png",
+      "app_uri": "com.lim.sevaosa.blackbox"
+    },
+    {
+      "app_title": "Cube Rolling",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/cube_rolling_icon.png",
+      "app_uri": "com.lim.sevaosa.cube"
+    },
+    {
+      "app_title": "Dominosa",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/dominosa_icon.png",
+      "app_uri": "com.lim.sevaosa.dominosa"
+    },
+    {
+      "app_title": "Filling - Puzzle Game",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/filling_icon.png",
+      "app_uri": "com.lim.sevaosa.filling"
+    },
+    {
+      "app_title": "Flip - Puzzle Game",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/flip_icon.png",
+      "app_uri": "com.lim.sevaosa.flip"
+    },
+    {
+      "app_title": "Galaxies",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/galaxy_icon.png",
+      "app_uri": "com.lim.sevaosa.galaxies"
+    },
+    {
+      "app_title": "Inertia",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/inertia_icon.png",
+      "app_uri": "com.lim.sevaosa.inertia"
+    },
+    {
+      "app_title": "Math Puzzle",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/mathpuzzle_icon.png",
+      "app_uri": "com.lim.sevaosa.keen"
+    },
+    {
+      "app_title": "Bridges - Puzzle Game",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/bridge_icon.png",
+      "app_uri": "com.lim.sevaosa.bridges"
+    },
+    {
+      "app_title": "Pearl - Puzzle Game",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/pearl_icon.png",
+      "app_uri": "com.lim.sevaosa.pearl"
+    },
+    {
+      "app_title": "Rectangles",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/rectangle_icon.png",
+      "app_uri": "com.lim.sevaosa.rectangles"
+    },
+    {
+      "app_title": "Towers",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/tower_icon.png",
+      "app_uri": "com.lim.sevaosa.towers"
+    },
+    {
+      "app_title": "Twiddle",
+      "app_icon": "https://d37xln8k1rp6cw.cloudfront.net/twiddle_icon.png",
+      "app_uri": "com.lim.sevaosa.twiddle"
+    }
+  ]
 }
