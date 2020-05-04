@@ -1,3 +1,12 @@
+ebook
+{
+  "image_url": "https://media.giphy.com/media/2x0tJVAL3IqFnZYhYt/giphy.gif",
+  "title": "New version available",
+  "message": "You are using oldere version, please update to new version",
+  "redirect_url": "com.lim.sevaosa.magnets",
+  "button_text": "Install"
+}
+
 {
   "apps": [
     {
