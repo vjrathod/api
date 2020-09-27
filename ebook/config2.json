@@ -6,7 +6,7 @@
 		"version": "1.1.1",
 		"is_hard_update": true,
 		"image_url": "https://media.giphy.com/media/2x0tJVAL3IqFnZYhYt/giphy.gif",
-		"apk_download_url": "https://read-free-books.github.io/website",
+		"apk_download_url": "https://play.google.com/store/apps/details?id=read.free.books.app.download",
 		"title": "New version available",
 		"message": "You are using oldere version, please update to new version",
 		"button_text": "Update"
