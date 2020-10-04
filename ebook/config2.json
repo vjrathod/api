@@ -1,6 +1,7 @@
 {
 	"ads": {
-		"fullscreen_open_count": 3
+		"fullscreen_open_count": 3,
+		"drawer_open_count": 3
 	},
 	"update": {
 		"version": "1.0.9",
