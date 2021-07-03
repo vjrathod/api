@@ -1,9 +1,9 @@
 {
 	"ads": {
-		"fullscreen_open_count": 3,
-		"drawer_open_count": 5,
-		"book_open_count": 5,
-		"tab_change_count": 5
+		"fullscreen_open_count": 20,
+		"drawer_open_count": 20,
+		"book_open_count": 10,
+		"tab_change_count": 20
 	},
 	"update": {
 		"version": "1.0.0",
