@@ -10,7 +10,7 @@
 		"version_code": "23",
 		"is_hard_update": true,
 		"image_url": "https://media.giphy.com/media/2x0tJVAL3IqFnZYhYt/giphy.gif",
-		"apk_download_url": "https://play.google.com/store/apps/details?id=read.free.books.app.download",
+		"apk_download_url": "https://raw.githubusercontent.com/read-free-books/apkfolder/master/FreeBooks_V1.1.9_www.books4u.app.apk",
 		"title": "New version available",
 		"message": "You are using oldere version, please update to new version",
 		"button_text": "Update"
