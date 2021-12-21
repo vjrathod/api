@@ -7,12 +7,12 @@
 	},
 	"update": {
 		"version": "1.0.0",
-		"version_code": "22",
+		"version_code": "25",
 		"is_hard_update": true,
 		"image_url": "https://media.giphy.com/media/2x0tJVAL3IqFnZYhYt/giphy.gif",
 		"apk_download_url": "https://raw.githubusercontent.com/read-free-books/apkfolder/master/FreeBooks_www.books4u.app.apk",
-		"title": "New version available",
-		"message": "You are using oldere version the app, please update the app with latest version",
+		"title": "New update available",
+		"message": "Please download the latest version of the app to get the latest features, improvements and bug fixes.",
 		"button_text": "Update"
 	}
 }
