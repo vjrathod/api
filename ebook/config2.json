@@ -8,11 +8,11 @@
 	"update": {
 		"version": "5.0.0",
 		"version_code": "50",
-		"is_hard_update": false,
+		"is_hard_update": true,
 		"image_url": "https://media.giphy.com/media/2x0tJVAL3IqFnZYhYt/giphy.gif",
 		"apk_download_url": "https://play.google.com/store/apps/details?id=download.read.free.books.app",
-		"title": "1st March, 2022 - App will not be accessible",
-		"message": "We request you to install the latest app, your downloaded/favorites books will not be accessible from 1st March, 2022. You can download same books from the latest app. Please install the latest app(Chapter1: Download, Read Books) from the play store.",
+		"title": "Install latest app",
+		"message": "You are using older version of the app, please install the latest app(Chapter1: Download, Read Books) from the play store.",
 		"button_text": "Install"
 	}
 }
